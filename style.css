@@ -1,0 +1,57 @@
+
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: #fff;
+color: #222;
+margin: 0;
+padding: 20px;
+}
+.flyer-container {
+max-width: 600px;
+margin: auto;
+border: 4px solid #fdb913; /* NSBE yellow */
+padding: 30px;
+border-radius: 12px;
+background-color: #000; /* NSBE black background */
+color: #fdb913; /* NSBE yellow text */
+}
+h1 {
+    font-size: 2.4rem;
+    margin-bottom: 0;
+    font-weight: 900;
+}
+h2 {
+    font-size: 1.4rem;
+    margin-top: 0;
+    font-weight: 700;
+    color: #3caa3c; /* NSBE green */
+}
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0.8rem 0;
+}
+.section {
+    margin-bottom: 25px;
+}
+.project {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.project-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #fdb913;
+}
+.contact {
+font-style: italic;
+font-weight: 600;
+}
+a {
+color: #fdb913;
+text-decoration: none;
+font-weight: 700;
+}
+a:hover {
+text-decoration: underline;
+}
